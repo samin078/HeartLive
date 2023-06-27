@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609478235454",
+    "project_id": "heartlive-b7118",
+    "storage_bucket": "heartlive-b7118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609478235454:android:eebbf2b400c2776956486f",
+        "android_client_info": {
+          "package_name": "com.example.HeartLive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609478235454-77j52i9qkr3pn5s8ddoj1hlhmsrml5me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmtCfOXJxORil64rchnDtYo3Z4KG8cNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609478235454-77j52i9qkr3pn5s8ddoj1hlhmsrml5me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
